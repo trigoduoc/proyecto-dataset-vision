@@ -1,4 +1,15 @@
+# Entornos Virtuales
 .venv/
+venv/
+env/
 __pycache__/
+*.pyc
 
-credenciales.json 
+# Archivos de Sistema Operativo
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archivos de configuración locales
+.env
