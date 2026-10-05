@@ -58,7 +58,7 @@ git checkout -b nombre_apellido
 * Pega las 10 fotos correspondientes dentro de la subcarpeta de cada persona.
 
 3. Registra los metadatos:
-* Saca una copia del archivo `plantilla_sujetos.csv` y renómbralo con tu nombre (ejemplo: `sujetos_juan_perez.csv`).
+* Saca una copia del archivo `sujetos.csv` y renómbralo con tu nombre (ejemplo: `sujetos_juan_perez.csv`).
 * Ábrelo y registra a cada persona (una fila por sujeto). Ejemplo para el sujeto 1:
   - `id_carpeta`: jp_01
   - `nombre_original`: Carlos Gomez
