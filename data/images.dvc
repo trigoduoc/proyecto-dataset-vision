@@ -1,6 +1,14 @@
 outs:
+<<<<<<< HEAD
 - md5: 9b01210a4d4af9eeee4ebecefc8dd10c.dir
   nfiles: 136
   hash: md5
   path: images
   size: 178223009
+=======
+- md5: 0bb14d171fbb8ea37989223de1193e7f.dir
+  nfiles: 96
+  hash: md5
+  path: images
+  size: 25829856
+>>>>>>> revision_pr_1
